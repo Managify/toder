@@ -27,6 +27,6 @@ Then, in a new terminal window run the following to start a hot-reloading dev se
 $ npm run dev
 ```
 
-Visit [http://localhost:3000/](localhost:8000) in your browser and you should see the app!
+Visit [http://localhost:3000/](http://localhost:3000) in your browser and you should see the app!
 
 Make some changes and see what happens.
